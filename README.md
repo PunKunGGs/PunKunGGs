@@ -51,7 +51,7 @@ This profile highlights technical skills, tools, and project work related to fro
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PunKunGG&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=PunKunGGs&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
